@@ -20,14 +20,14 @@ It is often required to store requester information in regions that correspond t
 
 ### Starting the app
 
-'''
+```
 cd assets
 npx @zendesk/zcli apps:server
-'''
+```
 
 ### Starting the detokenize service
 
-'''
+```
 cd backend
 node detokenize
-'''
+```
